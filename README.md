@@ -39,9 +39,12 @@ python run_point_transform.py
 
 ### Original picture
 <img src="pics/IMG_1599.jpg" alt="alt text" width="800">
+
 ### Basic Transformation
 
-<img src="pics/录屏2024-09-30 23.08.23.mov" alt="alt text" width="800">
+操作演示视频链接如下：
+global展示视频
+链接: https://pan.baidu.com/s/13t_USlVS73fbOrCJXuzFsw 提取码: 1dip 
 <img src="pics/截屏2024-09-30 23.11.34.png" alt="alt text" width="800">
 <img src="pics/截屏2024-09-30 23.12.09.png" alt="alt text" width="800">
 <img src="pics/截屏2024-09-30 23.12.23.png" alt="alt text" width="800">
@@ -50,7 +53,10 @@ python run_point_transform.py
 
 
 ### Point Guided Deformation:
-<img src="pics/录屏2024-09-30 23.27.39.mov" alt="alt text" width="800">
+
+操作演示视频链接如下：
+通过网盘分享的文件：point展示视频
+链接: https://pan.baidu.com/s/1P1sB4gVpAV548nTOwtp8OA?pwd=1dip 提取码: 1dip 
 <img src="pics/截屏2024-09-30 23.28.36.png" alt="alt text" width="800">
 
 ## Acknowledgement
